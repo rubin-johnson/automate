@@ -1,0 +1,18 @@
+{
+  "name": "rubin-johnson",
+  "description": "Plugins by rubin-johnson",
+  "owner": {
+    "name": "rujohnson"
+  },
+  "plugins": [
+    {
+      "name": "automate",
+      "description": "Detect repetitive tasks in session history and script them to ~/.claude/bin/",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "rujohnson"
+      }
+    }
+  ]
+}

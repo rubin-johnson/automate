@@ -1,0 +1,10 @@
+{
+  "name": "automate",
+  "version": "0.1.0",
+  "description": "Detect repetitive tasks in Claude Code session history and script them to ~/.claude/bin/. Maintains a discoverable manifest so Claude always knows what automations are available.",
+  "author": {
+    "name": "rujohnson"
+  },
+  "license": "MIT",
+  "keywords": ["automation", "scripts", "productivity", "workflow"]
+}
